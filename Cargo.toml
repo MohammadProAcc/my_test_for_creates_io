@@ -1,0 +1,11 @@
+[package]
+name = "my_test_for_crates_io"
+version = "0.0.1"
+authors = ["anonymous"]
+
+description = "A Simple Test Crate"
+repository = "https://github.com/moacca/my_test_for_crates_io"
+keywords = ["test", "lib"]
+license = "Apache-2.0"
+
+[dependencies]
